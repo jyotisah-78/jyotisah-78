@@ -1,3 +1,24 @@
+# Hi, I'm Jyoti Kumari Sah
+
+Computer Science undergraduate at Symbiosis Institute of Technology, Pune. I build practical software projects and explore machine learning.
+
+## Areas of interest
+- Full-stack and backend development
+- Databases and data-driven applications
+- Machine learning projects
+
+## Tech stack
+Python · JavaScript · React · Node.js · MySQL
+
+## Selected projects
+- [Employee Attrition Prediction](https://github.com/jyotisah-78/employee-attrition-prediction) — machine-learning project for exploring employee attrition.
+- [Faculty Dashboard Backend](https://github.com/jyotisah-78/Faculty-Dashboard-Backend)
+- [AI Phishing Website Detection](https://github.com/jyotisah-78/AI-Phishing-Website-Detection-)
+- [Multilingual Voice Translator](https://github.com/jyotisah-78/multilingual-voice-translator)
+- [Sentiment Worker](https://github.com/jyotisah-78/Sentiment-worker)
+
+## Connect
+[LinkedIn](https://www.linkedin.com/in/jyoti-kumari-sah-a88b122b7/)
 ## Hi there 👋
 
 <!--
